@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@android:drawable/ic_menu_view" />
+
+    <item
+        android:id="@+id/nav_market"
+        android:title="Market"
+        android:icon="@android:drawable/ic_menu_agenda" />
+
+    <item
+        android:id="@+id/nav_health"
+        android:title="Health"
+        android:icon="@android:drawable/ic_menu_info_details" />
+
+    <item
+        android:id="@+id/nav_recipe"
+        android:title="Recipe"
+        android:icon="@android:drawable/ic_menu_crop" />
+
+    <item
+        android:id="@+id/nav_buy"
+        android:title="Buy"
+        android:icon="@android:drawable/ic_menu_call" />
+
+</menu>

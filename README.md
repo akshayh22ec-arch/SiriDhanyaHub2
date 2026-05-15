@@ -1,58 +1,71 @@
 # 🌾 SiriDhanyaHub
 
-## Ancient Grains for a Healthy Future
+<p align="center">
+  <b>Ancient Grains for a Healthy Future</b>
+</p>
 
-SiriDhanyaHub is a modern Android application developed using *Kotlin* in *Android Studio* to promote millet awareness, healthy food habits, and smart agriculture support.
-
-The application helps users explore:
-•⁠  ⁠🌱 Millet market prices
-•⁠  ⁠🥗 Healthy millet recipes
-•⁠  ⁠💪 Nutrition & health benefits
-•⁠  ⁠🛒 Millet product purchasing
+<p align="center">
+  Android Application built using Kotlin & Android Studio
+</p>
 
 ---
 
-# 📱 Application Features
+# 📖 About The Project
 
-## 🔐 User Authentication
+SiriDhanyaHub is a modern Android application developed to promote awareness about millets, healthy food habits, and smart agricultural support systems.
+
+The application provides users with:
+•⁠  ⁠Live millet market prices
+•⁠  ⁠Healthy millet recipes
+•⁠  ⁠Nutritional & health benefits
+•⁠  ⁠Direct millet product purchase support
+•⁠  ⁠Secure user authentication
+
+This project was developed as part of an academic internship/project work using Android development technologies and API integration concepts.
+
+---
+
+# ✨ Features
+
+## 🔐 Authentication System
 •⁠  ⁠User Registration
-•⁠  ⁠Secure Login System
+•⁠  ⁠Secure Login
 •⁠  ⁠Logout Functionality
 
 ## 🏠 Home Dashboard
-•⁠  ⁠Beautiful millet-themed dashboard
-•⁠  ⁠Smooth navigation interface
+•⁠  ⁠Clean and modern UI
+•⁠  ⁠User-friendly navigation
 
-## 📈 Live Millet Market Prices
-•⁠  ⁠Real-time market prices using MockAPI
-•⁠  ⁠RecyclerView integration
-•⁠  ⁠Dynamic API fetching with Retrofit
+## 📈 Live Market Prices
+•⁠  ⁠Real-time millet market price updates
+•⁠  ⁠API integration using Retrofit
+•⁠  ⁠RecyclerView implementation
 
-## 💪 Health Benefits Section
-•⁠  ⁠Nutritional value of millets
-•⁠  ⁠Healthy lifestyle awareness
+## 🍲 Millet Recipes
+•⁠  ⁠Healthy traditional millet recipes
+•⁠  ⁠Recipe display cards
 
-## 🍲 Millet Recipe Section
-•⁠  ⁠Traditional healthy millet recipes
-•⁠  ⁠Easy-to-understand recipe cards
+## 💪 Health Benefits
+•⁠  ⁠Nutritional information
+•⁠  ⁠Awareness about healthy food lifestyle
 
-## 🛒 Direct Buy Section
-•⁠  ⁠Millet product purchasing support
-•⁠  ⁠Clean UI shopping interface
+## 🛒 Direct Buy
+•⁠  ⁠Millet product browsing support
+•⁠  ⁠Clean shopping interface
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|----------|
+| Technology | Usage |
+|------------|-------|
 | Kotlin | Android Development |
 | Android Studio | IDE |
 | XML | UI Design |
 | Retrofit | API Integration |
-| RecyclerView | Dynamic List |
-| MockAPI | Online API |
-| Material Design | Modern UI |
+| RecyclerView | Dynamic Lists |
+| MockAPI | Cloud API |
+| Material Design | UI Components |
 
 ---
 
@@ -60,6 +73,25 @@ The application helps users explore:
 
 ⁠ bash
 https://6a042e1d2afe8349b4b6097f.mockapi.io/api/prices
+ ⁠
+
+---
+
+# 📂 Project Structure
+
+⁠ bash
+app/
+ ┣ java/com/example/siri_dhanyahub
+ ┃ ┣ activities
+ ┃ ┣ adapters
+ ┃ ┣ api
+ ┃ ┣ fragments
+ ┃ ┗ models
+ ┣ res/
+ ┃ ┣ drawable
+ ┃ ┣ layout
+ ┃ ┣ mipmap
+ ┃ ┗ values
  ⁠
 
 ---
@@ -119,44 +151,26 @@ https://6a042e1d2afe8349b4b6097f.mockapi.io/api/prices
 <p align="center">
   <img src="directbuy.jpeg" width="250"/>
 </p>
+
 ---
 
-# 🚀 Project Highlights
+# 🚀 Key Highlights
 
-•⁠  ⁠Modern Android UI
-•⁠  ⁠Real-time API Integration
-•⁠  ⁠User Authentication
-•⁠  ⁠RecyclerView Implementation
-•⁠  ⁠Fragment Navigation
-•⁠  ⁠Responsive Layout Design
-•⁠  ⁠Clean Architecture
+•⁠  ⁠Modern Android UI Design
+•⁠  ⁠Real-time API Fetching
+•⁠  ⁠RecyclerView Integration
+•⁠  ⁠Retrofit Networking
 •⁠  ⁠Material Design Components
+•⁠  ⁠User Authentication Flow
+•⁠  ⁠Responsive Layout Design
+•⁠  ⁠Fragment-Based Navigation
 
 ---
 
-# 📂 Project Structure
-
-⁠ bash
-app/
- ┣ java/com/example/siri_dhanyahub
- ┃ ┣ activities
- ┃ ┣ fragments
- ┃ ┣ adapters
- ┃ ┣ api
- ┃ ┗ models
- ┣ res/
- ┃ ┣ layout
- ┃ ┣ drawable
- ┃ ┣ mipmap
- ┃ ┗ values
- ⁠
-
----
-
-# 🎯 Future Enhancements
+# 🔮 Future Enhancements
 
 •⁠  ⁠Firebase Authentication
-•⁠  ⁠AI-based Millet Suggestions
+•⁠  ⁠AI-based Millet Recommendations
 •⁠  ⁠Dark Mode Support
 •⁠  ⁠Multi-language Support
 •⁠  ⁠Online Payment Gateway
@@ -168,11 +182,13 @@ app/
 
 ## Akshay H
 
-Electronics & Communication Engineering  
+Electronics & Communication Engineering Student  
 Android Developer | Kotlin Enthusiast
 
 ---
 
-# ⭐ GitHub Repository
+# ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub.
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+---

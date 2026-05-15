@@ -66,33 +66,59 @@ https://6a042e1d2afe8349b4b6097f.mockapi.io/api/prices
 
 # 📸 Application Screenshots
 
-## 🔑 Login Page
-
-<img src="login.jpeg" width="250"/>
-
----
-
 ## 📝 Register Page
 
-<img src="register.jpeg" width="250"/>
+<p align="center">
+  <img src="register.jpeg" width="250"/>
+</p>
 
 ---
 
-## 💪 Health Benefits Page
+## 🔑 Login Page
 
-<img src="healthbenefits.jpeg" width="250"/>
+<p align="center">
+  <img src="login.jpeg" width="250"/>
+</p>
+
+---
+
+## 🏠 Home Page
+
+<p align="center">
+  <img src="home.jpeg" width="250"/>
+</p>
+
+---
+
+## 📈 Market Price Page
+
+<p align="center">
+  <img src="market.jpeg" width="250"/>
+</p>
 
 ---
 
 ## 🍲 Recipe Page
 
-<img src="recipe.jpeg" width="250"/>
+<p align="center">
+  <img src="recipe.jpeg" width="250"/>
+</p>
+
+---
+
+## 💪 Health Benefits Page
+
+<p align="center">
+  <img src="healthbenefits.jpeg" width="250"/>
+</p>
 
 ---
 
 ## 🛒 Direct Buy Page
 
-<img src="directbuy.jpeg" width="250"/>
+<p align="center">
+  <img src="directbuy.jpeg" width="250"/>
+</p>
 ---
 
 # 🚀 Project Highlights
